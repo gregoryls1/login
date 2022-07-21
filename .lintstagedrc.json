@@ -1,5 +1,6 @@
 {
   "*.js": [
     "standard --fix",
-    "git add "]
+    "git add "
+  ]
 }
